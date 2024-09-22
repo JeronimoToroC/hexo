@@ -1,0 +1,10 @@
+# Ignorar todos los archivos dentro del directorio tests
+/tests/
+
+# Ignorar archivos de prueba que terminan en .test.ts o .spec.ts
+*.test.ts
+*.spec.ts
+
+# Ignorar archivos de configuración
+jest.config.js
+.eslintrc.js
